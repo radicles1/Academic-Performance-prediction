@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository provides an end-to-end pipeline for data preprocessing, feature extraction, behavioral and academic performance analysis, and prediction using an optimized Binarized Simplicial Convolutional Neural Network (BSCNN) tailored for adolescent student data. The goal is to identify and analyze key educational and behavioral metrics (IQ, CQ, EQ, SQ, AQ) and predict these soft labels for individual students.
+This repository provides an end-to-end pipeline for data preprocessing, feature extraction, behavioral and academic performance analysis, and prediction using an Multi Component Attention Graph Convolutional Neural Network (BSCNN) tailored for adolescent student data. The goal is to identify and analyze key educational and behavioral metrics (IQ, CQ, EQ, SQ, AQ) and predict these soft labels for individual students.
 
 ## Project Structure
 
